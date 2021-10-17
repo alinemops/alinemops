@@ -17,6 +17,6 @@ Olá! Eu sou Aline Oliveira. 🌈
  <a href="https://www.linkedin.com/in/aline-oliveira-9124aa219/?senderId=luiz-felipe-de-o-%CE%87-bonato-pereira-da-silva-426a4823" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/alineoliveira.pe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-  ![Snake animation] (https://github.com/alinemops/alinemops/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alinemops/alinemops/blob/output/github-contribution-grid-snake.svg)
     
    </div>
