@@ -1,4 +1,5 @@
 Hey, I'm Aline Oliveira! 👋
+I'm 27 years old and I'm passionate about technology. I am currently studying System Analysis and Development at FATEC - Faculdade de Tecnologia de Praia Grande, São Paulo, Brazil. I seek to learn and develop each day and use my Github not only as a platform to store and demonstrate my codes but also as a personal self-incentive environment where I can always be evolving.
 <div align="center">
   <a href="https://github.com/alinemops">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinemops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
